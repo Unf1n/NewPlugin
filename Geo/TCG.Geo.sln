@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{798a5344-4387-44b4-b39b-cc583ef2cba8}") = "TCG.Geo", "TCG.Geo\TCG.Geo.csproj", "{36bd0928-e0f7-4bee-b768-c7ee412ead13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36bd0928-e0f7-4bee-b768-c7ee412ead13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36bd0928-e0f7-4bee-b768-c7ee412ead13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36bd0928-e0f7-4bee-b768-c7ee412ead13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36bd0928-e0f7-4bee-b768-c7ee412ead13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74a3b7ec-9c42-486c-95ed-bcad06120d9a}
+	EndGlobalSection
+EndGlobal
+
